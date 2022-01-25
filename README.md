@@ -1,5 +1,5 @@
 # automation
-This framework is based on Python3.6 selenium for python and chromedriver.
+This framework is based on Python3.6, selenium for python and chromedriver.
 To simplify the job, it includes a conda environment shoestore based on bash
 profile under mac OSX (shoestore env is compatible on macOS Big Sur and up). 
 However, since python, selenium and chromedriver is multiplatform, this 
